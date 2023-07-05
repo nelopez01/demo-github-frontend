@@ -1,0 +1,13 @@
+body {
+  color: white;
+  width: 100vw;
+  height: 100vh;
+  background-image: linear-gradient(
+    to rogh top,
+    #051937,
+    #004d7a,
+    #008793,
+    #00bf72,
+    #a8eb12
+  );
+}
